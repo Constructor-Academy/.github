@@ -5,7 +5,7 @@ Code your future - Full-Stack and Data Science intensive bootcamps + courses on 
 
 ## What you'll find here
 
-On our github we mostly publish projects made by our studnets during their final projcts, but you will also find some other useful resources.
+Here we primarily publish projects made by our students during their final projects, but you will also find some other useful resources.
 
 
 
