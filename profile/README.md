@@ -1,7 +1,7 @@
 # Welcome to the SIT Academy Github
 Code your future - Full-Stack and Data Science intensive bootcamps + courses on the hottest technologies
 
-![Students](./propulsion_people.jpeg)
+![Students](https://sit.academy/_next/image?url=%2Fstatic%2Fassets%2Fpages%2Fabout%2Fabout_header.jpg&w=1366&q=75)
 
 ## What you'll find here
 
