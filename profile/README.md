@@ -19,8 +19,11 @@ We give people new professional opportunities by unleashing their hidden potenti
 Through a hands-on and project-based approach, our teaching methods consists of a combination of lectures and follow-on exercises. With a strong industry focus, our programs are designed to simulate a real-work environment, from the technologies we teach, the team-work between students, to the projects they work on. Every module ends with a project so that students use what they learned. The final Capstone Project is done in collaboration with industry.
 
 ### Contact
+
 Constructor Academy
 Heinrichstrasse 200
 8005 Zurich
 Switzerland
 +41 (44) 585 18 14
+
+academy@constructor.org
